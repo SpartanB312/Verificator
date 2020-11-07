@@ -1,5 +1,5 @@
 # Verificator
-A Minecraft client HWID verificator
+A Minecraft client HWID verificator for 1.12.2
 
 ## Notice
 We recommend using pastebin to stock HWIDs.
