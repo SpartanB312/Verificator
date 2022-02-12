@@ -1,0 +1,6 @@
+{
+  "plugin": "net.spartanb312.phantom.launch.MixinPlugin",
+  "required": false,
+  "package": "net.spartanb312.phantom.mixin",
+  "compatibilityLevel": "JAVA_8"
+}

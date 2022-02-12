@@ -1,0 +1,10 @@
+{
+  "required": false,
+  "compatibilityLevel": "JAVA_8",
+  "package": "net.spartanb312.phantom.mixin",
+  "minVersion": "0.7",
+  "refmap": "mixins.epsilon.refmap.json",
+  "client": [
+    "MixinMinecraft"
+  ]
+}
