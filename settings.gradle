@@ -1,2 +1,2 @@
 rootProject.name = "Phantom"
-include "Client","Server"
+include "Phantom Client","Phantom Server"
