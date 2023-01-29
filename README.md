@@ -28,5 +28,8 @@ But If your obfuscator support mixin obf and meta-inf replace then it will be ok
 
 BTW ResourceCache is not safe at all.You can use ur own class loader and encrypt the download stream, protocol, confusing the loader logic
 
+## Example
+https://github.com/SpartanB312/Epsilon
+
 ## Credits
 Some ideas are from falcon loader
